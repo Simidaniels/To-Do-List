@@ -16,3 +16,7 @@ const Navigation = () => {
 }
 
 export default Navigation;
+
+
+// The normal nav-bar nawww
+// Don't forget your task issue

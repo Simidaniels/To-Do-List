@@ -222,3 +222,7 @@ return (      //JSX function
 
 
 export default TodoList;
+
+
+// Home.js..........
+// Composition of the Index, Navigation, Rating....

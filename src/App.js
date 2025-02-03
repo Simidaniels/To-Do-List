@@ -22,3 +22,8 @@ function App() {
   );
 }
 export default App;
+
+
+// Not perfectly done...
+// Have a description issue on Home.js
+// Problem: Each To-Do list description conjoin together instead of separating creating a mess
