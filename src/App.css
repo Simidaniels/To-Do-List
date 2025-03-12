@@ -115,7 +115,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
   backdrop-filter: blur(500px);
   z-index: 999;
 }
@@ -123,7 +122,6 @@ body {
   color: #fff;
   font-size: 15px;
   font-weight: bold;
-  
 }
 textarea {
   resize: none;
